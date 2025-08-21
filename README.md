@@ -13,6 +13,7 @@
 - [2025, Introducing DeepSearcher: A Local Open Source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
 - [2025, I Built a Deep Research with Open Source—and So Can You!](https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md)
 - [2024, Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+- [Multi-agent systems](https://langchain-ai.github.io/langgraph/concepts/multi_agent/)
 
 # TODO
 - 자료 수집
