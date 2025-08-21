@@ -12,6 +12,7 @@
 - [2025, Benchmarking Multi-Agent Architectures](https://blog.langchain.com/benchmarking-multi-agent-architectures/)
 - [2025, Introducing DeepSearcher: A Local Open Source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
 - [2025, I Built a Deep Research with Open Source—and So Can You!](https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md)
+- [2025, How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 - [2024, Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
 - [Multi-agent systems](https://langchain-ai.github.io/langgraph/concepts/multi_agent/)
 
