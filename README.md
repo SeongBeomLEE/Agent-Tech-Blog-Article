@@ -16,6 +16,7 @@
 - [2025, I Built a Deep Research with Open Source—and So Can You!](https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md)
 - [2025, Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 - [2025, How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
+- [2025, A Developer’s Guide to Building Scalable AI: Workflows vs Agents](https://towardsdatascience.com/a-developers-guide-to-building-scalable-ai-workflows-vs-agents/)
 - [2025, Agents vs. Workflows](https://huggingface.co/blog/VirtualOasis/agents-vs-workflows-en)
 - [2024, Prompting vs JSON Mode vs Function Calling vs Constrained Generation vs SAP](https://boundaryml.com/blog/schema-aligned-parsing)
 - [2024, Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
