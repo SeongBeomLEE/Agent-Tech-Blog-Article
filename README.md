@@ -4,6 +4,7 @@
 - 추가할 자료가 있다면 PR을 남겨주세요.
 
 # 자료 모음
+- [2025, Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
 - [2025, Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 - [2025, AI 에이전트를 위한 컨텍스트 엔지니어링: Manus 구축에서 얻은 교훈](https://manus.im/ko/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [2025, Multi-Agent Context Engineering : Supervisor Agent를 채택하기까지](https://www.linkedin.com/pulse/multi-agent-context-engineering-supervisor-agent%EB%A5%BC-%EC%B1%84%ED%83%9D%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-sehun-heo-qcdsc/)
