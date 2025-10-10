@@ -4,6 +4,7 @@
 - 추가할 자료가 있다면 PR을 남겨주세요.
 
 # 자료 모음
+- [2025, Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [2025, Build Agents to be Dependable](https://blog.crewai.com/build-agents-to-be-dependable/)
 - [2025, What Matters in AI Agents](https://blog.crewai.com/what-matters-in-ai-agents/)
 - [2025, Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
