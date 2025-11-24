@@ -4,6 +4,9 @@
 - 추가할 자료가 있다면 PR을 남겨주세요.
 
 # 자료 모음
+- [2025, How agents can use filesystems for context engineering](https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/)
+- [2025, Improving agent with semantic search](https://cursor.com/blog/semsearch)
+- [2025, Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [2025, Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [2025, Build Agents to be Dependable](https://blog.crewai.com/build-agents-to-be-dependable/)
 - [2025, What Matters in AI Agents](https://blog.crewai.com/what-matters-in-ai-agents/)
