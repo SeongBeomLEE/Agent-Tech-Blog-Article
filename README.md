@@ -4,6 +4,7 @@
 - 추가할 자료가 있다면 PR을 남겨주세요.
 
 # 자료 모음
+- [2026, 엔터프라이즈 LLM 서비스 구축기 1: 컨텍스트 엔지니어링](https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-1-context-engineering)
 - [2025, How agents can use filesystems for context engineering](https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/)
 - [2025, Improving agent with semantic search](https://cursor.com/blog/semsearch)
 - [2025, Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
